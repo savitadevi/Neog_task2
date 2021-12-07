@@ -1,0 +1,5 @@
+var readlinceSync=require('readline-sync')
+var myAge=readlinceSync.question("your age is more then 25?")
+console.log("you entered "+myAge)
+console.log(userName)
+console.log("welcome----"+userName)
